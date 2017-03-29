@@ -1,4 +1,4 @@
-package com.gua.dev.spring.mvc;
+package com.gua.spring.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
