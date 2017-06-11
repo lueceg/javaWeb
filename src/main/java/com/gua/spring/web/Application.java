@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ImportResource;
  * @author liuweicheng 2016年1月29日 下午5:39:45
  */
 @SpringBootApplication // 等同于 @Configuration @EnableAutoConfiguration @ComponentScan
-@ImportResource({"service-beans.xml"})
+@ImportResource({"http-service-beans.xml"})
 public class Application {
 
     public static void main(String[] args) {
